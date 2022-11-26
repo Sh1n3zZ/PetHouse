@@ -14,11 +14,17 @@ This is a pet rescue project based on Mind+ is called PetHouse.
 <img src="./public/DemoPic.jpg" width="700" alt="" />
 
 ## ⭐ Previews
-### APP / WebSite / Appearance
+
+### APP / WebSite
 <p align="center">
 <img src="./public/APP.png" height="350"/>
 <img src="./public/WebSite.png" height="350"/>
+</p>
+
+### Appearance / WebCodes
+<p align="center">
 <img src="./public/Appearance.jpg" height="350"/>
+<img src="./public/WebCodes.png" height="350"/>
 </p>
 
 ## ⭐ Features
