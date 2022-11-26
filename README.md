@@ -29,9 +29,13 @@ This is a pet rescue project based on Mind+ is called PetHouse.
 
 ## ⭐ Features
 
-* You can adjust the drawing speed, record the numbers that pass and fail.
-* Easy language is used for programming (a Chinese programming language similar to Visual Basic), which is easy to use and change content.
-* The window is rounded to increase the ornamental value.
+* It provides a temporary shelter for stray pets, so that pets can get their own food and water resources, reduce human and material resources, and prevent pets from getting sick and having bad stomachs due to eating bad things.
+* Identify the type of pet through AI intelligent camera and feed it back to the master controller, who will give a judgment on opening the corresponding steering gear. When the pet does not arrive, turn on the RGB light band to simulate ultraviolet light to disinfect the pet water dispenser. When the pet arrives, turn off the ultraviolet light to prevent the pet from harming the pet.
+* The adjustable power supply and solar panel can supply power simultaneously, which can ensure the normal operation of the pet house while ensuring clean energy and environmental protection.
+* The water level information of the water storage tank is obtained through the water level sensor, and the water level information is pushed to the MQTT cloud platform through the MQTT sensor. Then, the information is obtained from the MQTT cloud platform using jQuery and other plug-ins, and then displayed on our mobile phones through the API interface callback using Web or APP information.
+* The current ambient light brightness is detected through a photosensitive sensor. When the ambient light is too low, the light filling strip is opened to fill the light.
+* The water level information of the feeding tank is obtained through the water level sensor. When the water level of the feeding tank is insufficient, water is pumped from the water storage tank to the feeding tank to ensure that the pet has enough water to drink at all times.
+* Use Mind+ visual/graphical programming language to make secondary changes simpler and easier.
 
 ## 🔧 How to Use
 
