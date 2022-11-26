@@ -39,22 +39,18 @@ This is a pet rescue project based on Mind+ is called PetHouse.
 
 ## 🔧 How to Use
 
-### 💪🏻 Windows
+### 💪🏻 Arduino Project Part
 
-- [Download Release](https://github.com/Sh1n3zZ/PetHouse/releases) and run it.
+- [Download Release](https://github.com/Sh1n3zZ/PetHouse/releases) and Open it with Mind+.
 
-### 🐳 Linux
+### 🐳 Web Project Part
 
 - [Download Release](https://github.com/Sh1n3zZ/PetHouse/releases) .
-- [Download Wine](https://www.winehq.org/) and run it through Wine.
+1.Open ../WebPages/index.html
+2.Jump to line 24
+3.Change "Your iot.dfrobot.com.cn API Port." to "Your API Port"（You can obtain this API interface from iot.ddrobot.com.cn）
 
-```bash
-#Install the latest Wine
-wget -qO- https://raw.githubusercontent.com/wszqkzqk/deepin-wine-ubuntu/master/online_install.sh | bash -e
 
-#Run it in Wine
-env WINEPREFIX=~/.wine2 wine This software.exe
-```
 ## 🆙 How to Update
 
 Please come here and install the latest release.
